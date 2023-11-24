@@ -13,7 +13,7 @@ Make endless email easy, with GPT research agent to have a prioritized email lis
 8. Integrate via make.com
 
 *****
-![](Images/Capture1.PNG.jpg)
+![](Images/Capture1.PNG)
 ![](Images/Capture.PNG)
 
 ## 🌐 How to run?
